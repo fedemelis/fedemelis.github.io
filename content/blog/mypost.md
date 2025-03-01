@@ -4,7 +4,9 @@ date: 2025-03-01
 authors:
     - name: Federico Melis
       link: https://github.com/fedemelis
-tags: ["blog", "test"]
+tags:
+  - Esempio
+  - Test
 ---
 
 # Welcome to My Blog Post
