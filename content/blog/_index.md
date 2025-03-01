@@ -9,10 +9,3 @@ This section is dedicated to the blog. Here you can find all the articles that I
 
 {{% /details %}}
 
-{{% for post in .Site.RegularPages %}}
-{{% if in post.Path "blog" %}}
-{{% if eq post.Params.published true %}}
-{{% include "blog-card.html" %}}
-{{% end %}}
-{{% end %}}
-{{% end %}}
