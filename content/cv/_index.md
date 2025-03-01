@@ -7,7 +7,7 @@ cascade:
 
 In this page you can find my Curriculum Vitae.
 
-{{ <pdf "https://drive.google.com/file/d/1fCFAo2TFgdNMvBar0f-RT5YypgdwauA9/view?usp=drive_link" > }}
+{{ <pdf "CV_Melis_Federico.pdf" > }}
 
 
 {{< callout emoji="📚" >}}
