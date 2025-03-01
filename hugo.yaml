@@ -27,7 +27,7 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
-    - name: CV ↗
+    - name: CV
       pageref: /cv
       weight: 4
     - name: Search
