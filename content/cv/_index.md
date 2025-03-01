@@ -7,7 +7,7 @@ cascade:
 
 In this page you can find my Curriculum Vitae.
 
-{{ <pdf "/CV_Melis_Federico.pdf" > }}
+{{ <pdf "static/CV_Melis_Federico.pdf" > }}
 
 
 {{< callout emoji="📚" >}}
@@ -15,5 +15,5 @@ In this page you can find my Curriculum Vitae.
 {{< /callout >}}
 
 
-You can download the PDF version of my CV [here](/CV_Melis_Federico.pdf).
+You can download the PDF version of my CV [here](https://drive.google.com/uc?export=download&id=1fCFAo2TFgdNMvBar0f-RT5YypgdwauA9).
 ```
