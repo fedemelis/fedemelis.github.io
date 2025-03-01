@@ -1,5 +1,5 @@
 ---
-title: Welcome to my site!
+title: Welcome to Federico Melis site
 toc: false
 ---
 
@@ -39,4 +39,3 @@ In my blog, I will share some articles that will touch on topics strictly relate
 {{<callout emoji="📝">}}
   I will try to write articles that are as clear as possible, keeping a cadence of one article per week. If you have any suggestions or you want to see a specific topic covered, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/federico-melis-5779b218b/).
 {{</callout>}}
-```
