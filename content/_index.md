@@ -1,12 +1,13 @@
 ---
-title: Benvenuto nel mio sito!
+title: Welcome to my site!
 toc: false
 ---
 
-# Benvenuto!
+# Welcome
 
-Questa è la pagina di benvenuto, qui ci andrebbe una descrizione di chi sono e cosa faccio
+Let me introduce myself. I'm a 23-year-old student at the University of Modena and Reggio Emilia. I'm currently enrolled in the Artificial Intelligence Engineering (AIE) program, Large Scale path.
+I like almost all technologies and I really appreciate the world of AI and ML.
 
 ## Blog
 
-Nel mio blog, condivido articoli su vari argomenti, tra cui programmazione, tecnologia e molto altro. [Visita il blog](blog).
+In my blog, I will share some articles that will touch on topics strictly related to AI and ML. [Visit the blog](blog).

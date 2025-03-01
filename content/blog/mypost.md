@@ -7,6 +7,7 @@ authors:
 tags:
   - Esempio
   - Test
+published: true
 ---
 
 # Welcome to My Blog Post
