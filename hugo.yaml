@@ -28,7 +28,7 @@ menu:
       pageRef: /about
       weight: 3
     - name: CV ↗
-      url: "https://drive.google.com/uc?export=download&id=1fCFAo2TFgdNMvBar0f-RT5YypgdwauA9"
+      pageref: /cv
       weight: 4
     - name: Search
       weight: 5
