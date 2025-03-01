@@ -14,7 +14,7 @@ I like almost all technologies and I really appreciate the world of AI and ML.
 
 ## My studies
 
-My approach with the world of tecologies, programming and stuff like that started when I was 14 years old. I started with the basics of programming, learning the C, C++ and Java. During my bechelor degree, I deeply studied the C language during the first year (*Fondamenti di informatica 1* and *Fondamenti di informatica 2*), and then I started to study Java and Python. I also studied the foundamentals of computer architecture, during the course *Calcolatori Elettronici*, and the basics of the operating systems, during the course *Sistemi Operativi*. I also studied the basics of the web development, during the course *Tecnologie Web*.
+My approach with the world of technologies, programming and stuff like that started when I was 14 years old. I started with the basics of programming, learning the C, C++ and Java. During my bechelor degree, I deeply studied the C language during the first year (*Fondamenti di informatica 1* and *Fondamenti di informatica 2*), and then I started to study Java and Python. I also studied the foundamentals of computer architecture, during the course *Calcolatori Elettronici*, and the basics of the operating systems, during the course *Sistemi Operativi*. I also studied the basics of the web development, during the course *Tecnologie Web*.
 I also have a good knowledge of the theory and the practice behind the Systems and Networks, thanks to the courses *Reti di Calcolatori*.
 
 ## Artificial Intelligence Engineering
