@@ -1,8 +1,6 @@
 ---
 Title: "Curriculum Vitae"
 Description: "Curriculum Vitae"
-cascade:
-    type: docs
 ---
 
 In this page you can find my Curriculum Vitae.
