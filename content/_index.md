@@ -1,17 +1,12 @@
 ---
-title: My Site
+title: Benvenuto nel mio sito!
 toc: false
 ---
 
-This is the landing page.
+# Benvenuto!
 
-## Explore
+Questa è la pagina di benvenuto, qui ci andrebbe una descrizione di chi sono e cosa faccio
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+## Blog
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+Nel mio blog, condivido articoli su vari argomenti, tra cui programmazione, tecnologia e molto altro. [Visita il blog](blog).
