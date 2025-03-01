@@ -7,7 +7,7 @@ cascade:
 
 In this page you can find my Curriculum Vitae.
 
-{{ <pdf "CV_Melis_Federico.pdf" > }}
+{{ <pdf "pdfs/CV_Melis_Federico.pdf" > }}
 
 
 {{< callout emoji="📚" >}}
