@@ -27,8 +27,8 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
-    - name: Contact ↗
-      url: "https://github.com/fedemelis"
+    - name: CV ↗
+      url: "https://drive.google.com/uc?export=download&id=1fCFAo2TFgdNMvBar0f-RT5YypgdwauA9"
       weight: 4
     - name: Search
       weight: 5
@@ -36,14 +36,9 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/fedemelis"
       params:
         icon: github
-    - name: Twitter
-      weight: 7
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
