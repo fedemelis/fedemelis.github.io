@@ -5,7 +5,7 @@ Description: "Curriculum Vitae"
 
 In this page you can find my Curriculum Vitae.
 
-{{ <pdf "pdfs/CV_Melis_Federico.pdf" > }}
+{{ <pdf "https://fedemelis.github.io/pdfs/CV_Melis_Federico.pdf" > }}
 
 
 {{< callout emoji="📚" >}}
