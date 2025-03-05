@@ -13,5 +13,5 @@ In this page you can find my Curriculum Vitae.
 {{< /callout >}}
 
 
-You can download the PDF version of my CV [here](https://drive.google.com/uc?export=download&id=1fCFAo2TFgdNMvBar0f-RT5YypgdwauA9).
+You can download the PDF version of my CV [here](https://drive.google.com/uc?export=download&id=1GbZRZyljygRZ5jqZF0mdc_7kxcp9iObb).
 ```
