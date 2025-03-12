@@ -54,13 +54,15 @@ It has 4 pins:
   We used a particular library for the ultrasonic sensor; the library is called `NewPing` and allow us to use one single pin for both the trigger and the echo.
 {{< /callout >}}
 
-## Microcontroller (Sender)
+## Microcontrollers
+
+## MC Sender
 
 The MC we used is an Arduino Uno and it handles the state switching of the parking slot. It also make use of the LoRa E220-900T22D module to communicate with the receiver.
 
 ![](https://fedemelis.github.io/img/arduino-sender.png)
 
-## Microcontroller (Receiver)
+## MC Receiver
 
 This MC is also an Arduino Uno and it receives message from all the senders in the parking network. It also make use of the LoRa E220-900T22D. One it receives a message, it sends it to the bridge via serial communication.
 
