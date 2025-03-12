@@ -81,4 +81,31 @@ The bridge receives the messages from the receiver and is the one that communica
 The backend server is a VPS that is connected to the internet. It is the one that communicates with the bridge and the app. 
 
 
+## AI components
+We used some techniques related to AI to enhance the system e to provide some useful features to the user and the maintainer of the parking network.
+In particular, we used Prophet to perform forecsting on the parking slot availability time serie and a Variational Autoencoder to provide a good way of doing anomaly detection and reducing the maintenance cost of the system.
+
+### Forecasting
+
+Regarding the forecasting, we chose to represent the parking slot state as a **binary state**
+* 1: the parking slot is occupied
+* 0: the parking slot is free
+
+Using this kind of representation we obtained a quadratic signal that is in fact the input of our Prophet model. Prophet provide a good support for embedding seasonality and trend in the time series, so we exploited two different kind of seasonality:
+
+* **Hourly seasonality**: it is the seasonality that is present in the time series every 24 hours.
+* **Minute seasonality**: it is the seasonality that is present in the time series every 60 minutes.
+
+This seasonality reflects in a good way what we observed in the dataset, so we decided to use them. Note that we are also ready to add other kind of seasonality using the *real data* collected from ParkSense. One of the seasonality that is needed and is certainly present in the data is the **holiday seasonality**.
+
+### Anomaly detection
+
+One of the main problem encountered during the developing of the idea, was how to handle such a big amount of parking slot, each with a pair of sensor that can easly fail in every moment. To reduce the uncertainty in what are the system that are failing, we exploited a **variational autoencoder** to perform **Anomaly Detection**.
+
+The idea is full train a VAE using as train data our time series, and then, feed the encoder with a novel time series, and measure how much its reconstruction (did by decoder) differ from the original distribution of data. The **idea** is that, if the example is drawn from the same distribution of the train data, the reconstruction error should be low, otherwise, it should be high.
+
+![](https://fedemelis.github.io/img/vae.png)
+
+
+
 
